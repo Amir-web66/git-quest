@@ -3,4 +3,4 @@
 agent: Amir-web66
 codename: LBrinss
 passphrase: h1st0ry-n3v3r-f0rg3ts
-
+gadget: salamoualaykom
